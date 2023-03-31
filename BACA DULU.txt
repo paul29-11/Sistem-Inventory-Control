@@ -1,0 +1,19 @@
+Aplikasi Inventory Control
+==========================================================================================================================================
+
+Bahasa Pemrograman 	: PHP v.7.3.4-0
+Database 		: MySQL
+Extension		: MySQLi Extension
+CSS Framework 	: Bootstrap
+Template		: AdminLTE v.2.0.4
+Report			: html2pdf_v4.03
+Tools			: - Atom,
+			  	  - XAMPP 7.3.4-0
+
+==========================================================================================================================================
+
+LOGIN
+
+Hak akses Super Admin 	: username RjrQzr, password RjrQzr
+Hak akses Super Gudang 	: username ratih, password ratih
+Hak akses Super Manajer : username fauzi, password fauzi
